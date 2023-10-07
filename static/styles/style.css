@@ -1,0 +1,124 @@
+.main{
+    display: inline;
+   text-align: center;
+   background-color: rgb(8, 0, 0);
+}
+.mein{
+    text-align: center;
+}
+.main>img{
+    width: 563px;
+}
+.im{
+    display: inline-block;
+    text-align: center;
+    color: rgb(15, 0, 2);
+    background-color: rgba(0, 70, 23, 0.815);
+}
+.imi{
+    text-align: center;
+}
+.br{
+    font-size: 50px;
+    font-style: oblique;
+    color: black;
+}
+.rb{
+    font-style: oblique;
+    color: beige;
+}
+.brr{
+    text-align: right;
+}
+.brrr{
+    font-size: 40px;
+    background-color: rgba(0, 0, 255, 0.39);
+}
+.mi{
+    font-size: 40px;
+}
+.mim>img{
+    width: 600px;
+}
+.mimi{
+    font-size: 45px;
+    background-color: rgba(137, 43, 226, 0.596);
+}
+.mir{
+    display: inline-block;
+    font-size: 34px;
+    background-color: rgba(0, 108, 250, 0.726);
+}
+.pi{
+    display: inline-block;
+    font-size: 30px;
+    background-color: rgba(255, 166, 0, 0.336);
+}
+.bir{
+    font-size: 35px;
+    font-style: oblique;
+}
+.mor{
+    font-size: 42px;
+    font-style: oblique;
+}
+.pip>img{
+    width: 900px;
+}
+.more{
+    display: inline-block;
+    font-size: 38px;
+    font-style: italic;
+    background-color: rgba(192, 112, 13, 0.699);
+}
+.mire>img{
+    width:600px ;
+}
+.mirer>img{
+    width: 500px ;
+}
+.poro{
+    font-size: 60px;
+    background-color: green;
+}
+.pora{
+    font-size: 40px;
+    color: beige;
+    background-color: black;
+}
+
+.close.press>img{
+width: 150px;
+}
+.closeye{
+    display: inline-block;
+    font-size: 30px;
+    color: bisque;
+    background-color: black;
+}
+.slow{
+    font-size: 30px;
+    color: bisque;
+    background-color: black;
+}
+body {
+    background-image: url('https://wallpapershome.com/images/wallpapers/mountains-5120x2880-macos-4k-5k-sierra-sky-android-wallpaper-11473.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.arrow-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 40px solid #007bff;
+}
+
